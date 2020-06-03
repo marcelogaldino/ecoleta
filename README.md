@@ -41,7 +41,7 @@ Ecoleta is a project that helps us save the planet connecting people to companie
 who collect specific waste and give to it the best destination saving the enviroment.
 
 <h1 align="center">
-    <img alt="Page" title="Page" src="./assests/home-logo.png" />
+    <img alt="Page" title="Page" src="https://github.com/marcelogaldino/ecoleta/blob/master/assets/home-logo.png" />
 </h1>
 
 
