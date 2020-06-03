@@ -1,8 +1,8 @@
-# ecoleta
+# Ecoleta
 Find places nearby that helps you to put your trash in the right place | Let's save the planet
 
 <h1 align="center">
-    <img alt="logo ecoleta" title="#Ecoleta" src="./assets/home-background.svg" width="350px" />
+    <img alt="logo ecoleta" title="#Ecoleta" src="./assets/home-background.svg" width="500px" />
 </h1>
 
 <h4 align="center"> 
@@ -28,9 +28,9 @@ Find places nearby that helps you to put your trash in the right place | Let's s
 </p>
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -41,7 +41,7 @@ Ecoleta is a project that helps us save the planet connecting people to companie
 who collect specific waste and give to it the best destination saving the enviroment.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="./assests/home-logo.png" width="500px" />
+    <img alt="Page" title="Page" src="./assests/home-logo.png" />
 </h1>
 
 
@@ -53,7 +53,7 @@ This project was developed with the following technologies:
 - [HTML][html]
 - [CSS][css]
 
-## :information_source: How To Use
+## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] (Node.js is required just for commitlint adoption) installed on your computer.
 
@@ -66,7 +66,7 @@ From your command line:
 $ git clone https://github.com/marcelogaldino/ecoleta
 
 # Go into the repository
-$ cd ecoleta
+$ cd ecoleta/
 
 # Install dependencies
 $ npm install
