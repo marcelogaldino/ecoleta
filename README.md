@@ -55,7 +55,7 @@ This project was developed with the following technologies:
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] (Node.js is required just for commitlint adoption) installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/) (Node.js is required just for commitlint adoption) installed on your computer.
 
 Open your vscode and install LiveServer plugin to run this project
 
